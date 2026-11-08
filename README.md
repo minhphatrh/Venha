@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Bài tập CSS – Buổi 3
 
 **Sinh viên:** Minh Phát  
