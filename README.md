@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bài tập CSS – Buổi 3
 
 **Sinh viên:** Minh Phát  
@@ -22,3 +23,6 @@ Repository này lưu trữ các bài tập CSS Buổi 3, bao gồm:
 ## Kết quả
 
 Các bài tập được xây dựng bằng HTML và CSS, sử dụng thêm thư viện Font Awesome ở Bài 9. Trang `VeNha/index.html` đóng vai trò là trang chủ để truy cập các bài tập đã thực hiện.
+=======
+
+>>>>>>> e58ac686c2811cc75e5735c3e168fb70fbefba04
